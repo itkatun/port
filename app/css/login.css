@@ -1,0 +1,47 @@
+.autorization {
+    border:2px solid white;
+    background:rgb(239, 243, 247);
+    position: absolute;
+    top: 15%;
+    margin: auto;
+    margin-top: -0.625em;
+    width: 590px;
+    height: 484px;
+    text-align: center;
+}
+.header-login-wrap{
+	background: #48cbe8;
+	border-bottom: 17px solid #67dffa;
+	padding: 1px 1px 1px;
+	border-radius: 5px 5px 0 0;
+	text-align: center;
+	margin-bottom: 11px;
+}
+.login-header{
+	font-family: 'fira_sansbook';
+	font-weight: normal;
+	font-size: 40px;
+	color: #ffffff;
+	border: none;
+}
+.autorization-body{
+	width: 592px;
+	height:382px; 
+}
+.login-form{
+
+}
+.contact-form-wrap{
+	width: 402px;
+	margin: 0 auto;
+	}
+.autorization .label {
+	font-size: 36px;
+}
+.autorization .input{
+	font-family: 'fira_sansbook';
+	font-weight: lighter;
+	font-size: 17px;
+	color: #959aa8;
+	border: none;
+}
